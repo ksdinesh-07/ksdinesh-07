@@ -1,25 +1,89 @@
-<h1 align="center">Hey there! I'm Dinesh — a Data Analyst and Developer passionate about turning data into insights.</h1>
+<h1 align="center">Hi there! 👋 I'm Dinesh</h1>
 <h3 align="center">Data Analyst | Python | SQL | Data Visualization</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ksdinesh-07&label=Profile%20views&color=0e75b6&style=flat" alt="ksdinesh-07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksdinesh-07" alt="ksdinesh-07" /></a> </p>
-
-- 🌱 I’m currently learning **Big data engineering**
-
-- 💬 Ask me about **python,sql,visualization**
-
-- 📫 How to reach me **ks.dinesh@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=1l0FJG05vsLicOxui0qSTfjCZPRzENax9](https://drive.google.com/uc?export=download&id=1l0FJG05vsLicOxui0qSTfjCZPRzENax9)
-
-- ⚡ Fun fact **# Then: print("Hello World") # Now: import pandas as pd from sklearn.ensemble import RandomForestClassifier import numpy as np # ...and still print("Hello World") when debugging 🐛**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dineshks07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dineshks07" height="30" width="40" /></a>
+<p align="center">
+  Turning data into actionable insights 📊
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
+### 🏆 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ksdinesh-07&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksdinesh-07&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksdinesh-07&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🧠 About Me
+- 🌱 Exploring **Big Data & Advanced Analytics**
+- 💬 Ask me about **Python, SQL, Data Visualization & ML**
+- 📫 Email: **ks.dinesh@gmail.com**
+- ⚡ Fun fact: # Then: print("Hello World") | Now: import pandas as pd; from sklearn.ensemble import RandomForestClassifier 🐛
+
+---
+
+### 🌐 Connect
+<p align="left">
+  <a href="https://linkedin.com/in/dineshks07" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://kaggle.com/yourprofile" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Kaggle-%23194933.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="mailto:ks.dinesh@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Hive-FF9900?style=for-the-badge&logo=apache-hive&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|--------|
+| **BlinkKit Analysis** | E-commerce sales analysis & demand forecasting | Python, Pandas, SQL, Power BI | [📊 Demo](#) • [💻 Code](https://github.com/ksdinesh-07/BlinkKit-Analysis) |
+| **Customer Segmentation** | Customer clustering for marketing optimization | Python, Scikit-learn, Pandas | [📈 Analysis](#) • [💻 Code](https://github.com/ksdinesh-07/Customer-Segmentation) |
+| **Sales Dashboard** | Interactive sales dashboard with KPIs | Power BI, SQL | [📊 Dashboard](#) • [💻 Code](https://github.com/ksdinesh-07/Sales-Dashboard) |
+| **Big Data Processing** | Large dataset processing with Hadoop/Hive | Hadoop, Hive, SQL | [🔍 Analysis](#) • [💻 Code](https://github.com/ksdinesh-07/Big-Data-Processing) |
+
+---
+
+### 📊 Weekly Development
+Python        🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   45%  
+SQL           🟩🟩🟩🟩🟩🟩🟩🟩       35%  
+Power BI      🟩🟩🟩🟩🟩             15%  
+Big Data      🟩🟩🟩                 5%  
+
+---
+
+### 📈 Visitor Count
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ksdinesh-07/count.svg" alt="Visitor Count"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Let's connect and create data-driven solutions! 🚀</i>
+</p>
